@@ -16,8 +16,8 @@ const App = () => {
     <>
       <BrowserRouter>
         <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
-          <Navbar />
-          <Hero />
+          <Navbar /> //completed on day 1
+          <Hero /> //completed on day 1
         </div>
         <About />
         <Experience />
